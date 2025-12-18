@@ -1,4 +1,4 @@
-# E-Commerce Analytics Dashboard (Excel)
+# Multi-Channel E-Commerce Analytics Dashboard (Excel)
 
 ## 🔍 Project Overview
 This project presents a multi-channel e-commerce analytics dashboard built using **Microsoft Excel** to analyze customer behavior, sales performance, and order trends across multiple online platforms such as **Amazon, Flipkart, Myntra, Ajio, Meesho**, and others.
@@ -55,7 +55,7 @@ The dataset consists of **31,049 orders** with the following key fields:
 
 ## 📌 Dashboard Preview
 
-<img width="1556" height="652" alt="Image" src="https://github.com/user-attachments/assets/a0c92b8a-5273-4e39-8dcc-81c268793172" />
+<img width="1547" height="638" alt="Image" src="https://github.com/user-attachments/assets/00be1792-b85e-4def-85be-62fce14ed85d" />
 
 ---
 
