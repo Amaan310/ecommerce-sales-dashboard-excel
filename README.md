@@ -54,7 +54,8 @@ The dataset consists of **31,049 orders** with the following key fields:
 ---
 
 ## 📌 Dashboard Preview
-![Dashboard Screenshot]("C:\Users\ASUS\Desktop\dashboard.png")
+![Dashboard Screenshot]
+<img width="1556" height="652" alt="Image" src="https://github.com/user-attachments/assets/a0c92b8a-5273-4e39-8dcc-81c268793172" />
 
 ---
 
